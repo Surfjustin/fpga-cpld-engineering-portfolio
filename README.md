@@ -142,9 +142,9 @@ Drive Hot-plug 後偶爾無法被正確偵測；Drive 插入時，Fault LED 也�
 
 ## 詳細案例
 
-- [HPM DIMM Power Cycle 偶發性判定失敗與 Fault Recovery 修正](case-studies/01-hpm-dimm-power-cycle-fault-recovery.md)
-- [PDB 雙節點風扇控制與關機電源時序修正](case-studies/02-pdb-dual-node-fan-shutdown-sequencing.md)
-- [HSBP Drive Hot-plug 與 Fault LED 資料映射修正](case-studies/03-hsbp-hotplug-led-address-mapping.md)
+- [HPM DIMM Power Cycle 偶發性判定失敗與 Fault Recovery 修正](01-hpm-dimm-power-cycle-fault-recovery.md)
+- [PDB 雙節點風扇控制與關機電源時序修正](02-pdb-dual-node-fan-shutdown-sequencing.md)
+- [HSBP Drive Hot-plug 與 Fault LED 資料映射修正](03-hsbp-hotplug-led-address-mapping.md)
 
 ## 工作與驗證方式
 

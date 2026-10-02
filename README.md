@@ -1,6 +1,6 @@
 # FPGA / CPLD Engineering Portfolio
 
-我主要負責伺服器平台的 FPGA／CPLD 板級控制，工作範圍涵蓋電源與 Reset 時序、跨板訊號、多節點控制、Hot-plug／LED 功能，以及偶發性硬體問題除錯。本作品集以去識別化方式整理代表性經驗，不包含公司 RTL、原理圖、真實 Pin assignment 或內部規格。
+我主要負責伺服器平台的 FPGA／CPLD 板級控制，工作範圍涵蓋電源與 Reset 時序、跨板訊號、多節點控制、Hot-plug／LED 功能，以及偶發性硬體問題除錯。本作品集以去識別化方式整理代表性經驗。
 
 ## 核心能力
 
